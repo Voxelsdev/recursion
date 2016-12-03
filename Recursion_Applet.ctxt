@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\r\n\ Initialize\ the\ application\ (much\ like\ main\ method)\r\n\ Initialize\ all\ of\ the\ instance\ fields\r\n\ Set\ the\ applett\ size\ to\ 500x500\r\n
+comment1.params=
+comment1.target=java.awt.Color\ randomColor()
+comment2.params=gfx
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\r\n\ Draws\ the\ board\ for\ each\ frame.\ \r\n\ @parm\ gfx\ the\ name\ of\ the\ Graphics\ object\ to\ paint.\r\n
+comment3.params=gfx
+comment3.target=void\ update(java.awt.Graphics)
+comment3.text=\r\n\ Call\ the\ paint\ method\ \r\n\ @param\ gfx\ the\ Graphics\ object\ to\ paint\r\n
+numComments=4
